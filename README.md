@@ -1,0 +1,4 @@
+# Naive_bayes_A11.2019.12221
+Deva Fitriani
+A11.2019.12221
+A11.4612
